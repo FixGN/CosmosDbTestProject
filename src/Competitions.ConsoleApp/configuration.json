@@ -1,0 +1,9 @@
+{
+  "CosmosDb": {
+    "Uri": "https://dev-usb-cosmos-playground.documents.azure.com:443/",
+    "MasterKey": "vTqrpDzWjjg0HL6QK7fFsO9jTtQlrmcTCQ9BcMz7E9m0N9uUcPsP6D2tjlpy5qGZRgHYYXaHS7Pl9kpetY4xyw==",
+    "DatabaseId": "Competitions",
+    "DatabaseThroughput": 400,
+    "ContainerId": "Competitions"
+  }
+}

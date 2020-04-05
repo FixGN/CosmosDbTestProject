@@ -1,0 +1,16 @@
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/bin/Debug/netcoreapp3.1/Cosmos.CRTCompat.dll
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/bin/Debug/netcoreapp3.1/Competitions.Services.deps.json
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/bin/Debug/netcoreapp3.1/Competitions.Services.dll
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/bin/Debug/netcoreapp3.1/Competitions.Services.pdb
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/bin/Debug/netcoreapp3.1/Competitions.Repository.CosmosDb.dll
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/bin/Debug/netcoreapp3.1/Competitions.Repository.CosmosDb.pdb
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/obj/Debug/netcoreapp3.1/Competitions.Services.csprojAssemblyReference.cache
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/obj/Debug/netcoreapp3.1/Competitions.Services.AssemblyInfoInputs.cache
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/obj/Debug/netcoreapp3.1/Competitions.Services.AssemblyInfo.cs
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/obj/Debug/netcoreapp3.1/Competitions.Services.csproj.CopyComplete
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/obj/Debug/netcoreapp3.1/Competitions.Services.dll
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/obj/Debug/netcoreapp3.1/Competitions.Services.pdb
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/obj/Debug/netcoreapp3.1/Competitions.Services.csproj.CoreCompileInputs.cache
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/bin/Debug/netcoreapp3.1/Microsoft.Azure.Cosmos.ServiceInterop.dll
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/bin/Debug/netcoreapp3.1/Competitions.Models.dll
+/Users/a.chernyaev/git/CosmosDbTestProject/src/Competitions.Services/bin/Debug/netcoreapp3.1/Competitions.Models.pdb
